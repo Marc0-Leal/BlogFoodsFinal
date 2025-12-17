@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267498625962",
+    "project_id": "blogfood-firebase",
+    "storage_bucket": "blogfood-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267498625962:android:03a1a97ed8c324d81d29d3",
+        "android_client_info": {
+          "package_name": "com.evalenzuela.navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hbaDz_ZwAqM9xTWGM8FjlKVi_5l2B0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
